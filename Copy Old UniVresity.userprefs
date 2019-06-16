@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TeleportToBoard.cs">
+    <Files>
+      <File FileName="Assets\Scripts\scaleModel.cs" Line="18" Column="45" />
+      <File FileName="Assets\Scripts\FollowScript.cs" Line="40" Column="40" />
+      <File FileName="Assets\ZFBrowser\Scripts\BrowserUI\ClickMeshBrowserUI.cs" Line="102" Column="8" />
+      <File FileName="Assets\Scripts\TeleportToBoard.cs" Line="27" Column="114" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
